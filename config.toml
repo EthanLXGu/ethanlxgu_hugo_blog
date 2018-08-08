@@ -10,7 +10,7 @@ theme = "maupassant"
   author = "Ethan L X Gu"
   subtitle = "Reading, Thinking and Coding"
   keywords = "code & history"
-  description = "reading, thinking and coding"
+  description = "Reading, Thinking and Coding"
 
 [menu]
   [[menu.main]]
