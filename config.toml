@@ -1,4 +1,30 @@
-baseURL = "http://example.org/"
+baseURL = "https://ethanlxgu.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "吾性自足 不假外求"
+theme = "maupassant"
+
+[author]
+  name = "Ethan L X Gu"
+
+[params]
+  author = "Ethan L X Gu"
+  subtitle = "Reading, Thinking and Coding"
+  keywords = "code & history"
+  description = "reading, thinking and coding"
+
+[menu]
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 3
+  
+[[params.links]]
+  title = "github"
+  name = "github"
+  url = "https://github.com/EthanLXGu"
