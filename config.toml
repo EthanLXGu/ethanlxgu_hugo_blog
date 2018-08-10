@@ -28,3 +28,7 @@ theme = "maupassant"
   title = "github"
   name = "github"
   url = "https://github.com/EthanLXGu"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
